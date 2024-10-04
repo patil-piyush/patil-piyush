@@ -61,8 +61,3 @@
 
 ###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/patil-piyush/patil-piyush/output/snake.svg" alt="Snake animation" />
-
-###
