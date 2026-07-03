@@ -1,81 +1,50 @@
-<p align="left">-👋 Hello World! I'm Piyush Patil, a coding enthusiast on a mission to make cool stuff with computers.<br>-🌱 B.Tech Student in Computer Science @PCCoE<br>-📫 Reach me using piyushpatil0031@gmail.com<br>-🚀 Join me as I explore the coding universe and share my projects on GitHub. Whether it's building apps or solving interesting puzzles, I'm all about making tech fun and useful. Check out my code, share your thoughts, and let's create awesome things together! Happy coding! 🌟 #CodeExplorer #TechAdventures</p>
+<h1 align="left">Piyush Patil</h1>
 
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=888888&center=false&vCenter=true&width=480&lines=Full-Stack+Developer;React+%C2%B7+Next.js+%C2%B7+Node.js;Final-Year+CS+Engineering%2C+PCCOE+Pune" alt="typing" />
 
-###
+Final-year Computer Engineering student building full-stack products. My background also includes real-time systems work — I built the telemetry ground station and remote motor-testing software for our college rocketry team.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <br/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-</div>
+**Previously:** Automation Engineer @ Team Anantam (Rocketry & Space Research) · Technical Head @ ACM Student Chapter, PCCOE
 
-###
+Achievements: IEEE Ideathon 2nd Runner-Up · ML Mania 1st Prize · Harvard CS50 · McKinsey Forward Program
 
-<div align="left">
-  <a href="https://www.instagram.com/pishya.patil" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="54" height="42" alt="instagram logo"  />
-  </a>
-  <a href="piyushpatil0031@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="54" height="42" alt="gmail logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/piyush-patil-0606b127b?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxjmvecHvRlydGo0Cv2OC2w%3D%3D" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="54" height="42" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.facebook.com/pishya.patil" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="54" height="42" alt="facebook logo"  />
-  </a>
-  <a href="https://x.com/patilpishya" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="54" height="42" alt="twitter logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/23302350/piyush-patil" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="54" height="42" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://www.hackerrank.com/profile/piyushpatil0031" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/hackerrank/default.svg" width="54" height="42" alt="hackerrank logo"  />
-  </a>
-  <a href="https://dribbble.com/PiyushPatil0031" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/dribbble/default.svg" width="54" height="42" alt="dribbble logo"  />
-  </a>
-</div>
+Portfolio: [piyushpatil.vercel.app](https://piyushpatil.vercel.app) · piyushpatil0031@gmail.com
 
-###
+<br clear="both">
+
+### Stack
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript,tailwind,html,css" /><br>
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,python,flask" /><br>
+<img src="https://skillicons.dev/icons?i=aws,docker,githubactions,linux,git,c,cpp" />
+
+### Projects
+
+**[UniSphere](https://github.com/patil-piyush/Unisphere)** — full-stack college event management platform. Multi-role auth, rotating QR attendance, real-time dashboards.
+`Next.js` `Express` `MongoDB` `JWT`
+
+**[Ocean Guard](https://github.com/patil-piyush/OceanGuard)** — AI marine safety system for oil spill detection. Computer vision, trajectory prediction, geofenced alerts.
+`Python` `Computer Vision` `Maps API`
+
+**[Farmer Helper](https://github.com/patil-piyush/Farmer-Helper_V2)** — crop advisory platform with disease detection from images and live agricultural market pricing.
+`Flask` `ML` `React`
+
+**[Prescripto](https://github.com/patil-piyush/Prescripto)** — hospital appointment booking app with integrated payments.
+`React` `Node.js` `Payments`
+
+**Narada — Ground Station** *(private, Team Anantam org)* — real-time rocket telemetry: RF sensor data rendered live as GPS position, 3D orientation, and sensor graphs.
+`Embedded` `Real-time Dashboards`
+
+**Airavat — Motor Test Rig** *(private, Team Anantam org)* — remote rocket motor testing software, capturing thrust/force data from a safe distance during live burns.
+`Data Acquisition` `Signal Processing`
+
+**Synapse** *(private repo)* — AI-driven workflow automation tool.
+`AI` `Automation`
+
+### GitHub Stats
 
 <img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExamNmdHkzbGhqdXRtejh0aDJmc3czOG5kc25tYnBvcDM3MG41ZGNwcCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"  />
 
-###
 
 <div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=patil-piyush&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=vue-dark&locale=en&hide_border=true" height="150" alt="stats graph"  />
@@ -85,10 +54,18 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=patil-piyush&theme=vue&area=true&hide_border=true&hide_title=false&radius=16" height="150" alt="activity-graph graph"  />
 </div>
 
-###
-###
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/patil-piyush/patil-piyush/output/snake.svg" alt="Snake animation" />
+### Connect
 
-###
+<div align="left">
+  <a href="https://www.linkedin.com/in/patil-piyushh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:piyushpatil0031@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/piyush-patil"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" /></a>
+  <a href="https://www.hackerrank.com/profile/piyushpatil0031"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" /></a>
+  <a href="https://x.com/patilpishya"><img src="https://img.shields.io/badge/X-000000?style=flat-square&logo=x&logoColor=white" /></a>
+</div>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/patil-piyush/patil-piyush/output/snake.svg" alt="Snake animation" width="100%"/>
